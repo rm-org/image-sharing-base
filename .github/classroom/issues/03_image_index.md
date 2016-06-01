@@ -1,10 +1,10 @@
 ---
 title: Image Index
-assignee: aaronpanch
-labels: unstarted
 ---
 
 #### As a user I want the homepage to display all saved images.
+
+_Reviewer: aaronpanch_
 
 Acceptance criteria:
 - [ ] New images that are added show up on the homepage.

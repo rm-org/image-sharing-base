@@ -1,10 +1,10 @@
 ---
 title: Delete Image
-assignee: bboe
-labels: unstarted
 ---
 
 #### As a user I want to delete an image.
+
+_Reviewer: bboe_
 
 Acceptance criteria:
 - [ ] The user is prompted for confirmation prior to deletion.

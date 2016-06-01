@@ -1,10 +1,10 @@
 ---
 title: Images by Tag
-assignee: bboe
-labels: unstarted
 ---
 
 #### As a user I want to view all images associated with a tag.
+
+_Reviewer: bboe_
 
 Acceptance criteria:
 - [ ] When I click on a tag, I see a filtered list of only the images that have

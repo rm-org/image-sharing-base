@@ -1,10 +1,10 @@
 ---
 title: Share Image
-assignee: rmacklin
-labels: unstarted
 ---
 
 #### As a user I want to share an image with someone via email.
+
+_Reviewer: rmacklin_
 
 Acceptance criteria:
 - [ ] There is a link to share an image.

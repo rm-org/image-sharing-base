@@ -1,10 +1,10 @@
 ---
 title: Deployment Environment
-assignee: bboe
-labels: in progress
 ---
 
 #### As a developer I want a continuous deployment environment setup for my new Rails application.
+
+_Reviewer: bboe_
 
 Acceptance criteria:
 - [ ] The latest version of both Ruby and Rails are used both locally and on

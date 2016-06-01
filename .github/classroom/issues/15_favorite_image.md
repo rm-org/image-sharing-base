@@ -1,10 +1,10 @@
 ---
 title: Favorite Image
-assignee: rmacklin
-labels: unstarted
 ---
 
 #### As a logged in user I want to favorite an image.
+
+_Reviewer: rmacklin_
 
 Acceptance criteria:
 - [ ] Each image on the index page has a "favorite" button.

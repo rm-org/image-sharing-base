@@ -1,10 +1,10 @@
 ---
 title: Image Tags
-assignee: shfung
-labels: unstarted
 ---
 
 #### As a user I want to add tags to images.
+
+_Reviewer: shfung_
 
 Acceptance criteria:
 - [ ] When I add a new image, there is a form field to add tags.

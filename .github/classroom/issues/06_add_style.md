@@ -1,12 +1,10 @@
 ---
 title: Add Style
-assignee: aaronpanch
-labels:
-- software engineer
-- unstarted
 ---
 
 #### As a user I want to see a visually pleasing application.
+
+_Reviewer: aaronpanch_
 
 Acceptance criteria:
 - [ ] The application has a header with navigation

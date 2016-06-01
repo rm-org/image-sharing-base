@@ -1,10 +1,10 @@
 ---
 title: Authorization
-assignee: jyoder
-labels: unstarted
 ---
 
 #### As an application hoster I want to restrict some functionality to specific users.
+
+_Reviewer: jyoder_
 
 - [ ] Logged out users are restricted to read-only access.
 - [ ] Links to non-read actions are not shown to logged out users.

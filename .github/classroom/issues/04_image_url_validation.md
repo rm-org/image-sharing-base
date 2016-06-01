@@ -1,10 +1,10 @@
 ---
 title: Image URL Validation
-assignee: bboe
-labels: unstarted
 ---
 
 #### As a user I want to be prevented from submitting invalid image URLs.
+
+_Reviewer: bboe_
 
 Acceptance criteria:
 - [ ] I cannot successfully save an image with an invalid URL.

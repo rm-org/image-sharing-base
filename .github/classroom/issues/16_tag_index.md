@@ -1,10 +1,10 @@
 ---
 title: Tag Index
-assignee: ipmsteven
-labels: unstarted
 ---
 
 #### As a user I want to see a list of tags and the number of images associated with each.
+
+_Reviewer: ipmsteven_
 
 Acceptance criteria:
 - [ ] There is a link in the application that takes me to a list of all tags.

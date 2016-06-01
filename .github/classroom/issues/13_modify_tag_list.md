@@ -1,10 +1,10 @@
 ---
 title: Modify Tag List
-assignee: weixing2014
-labels: unstarted
 ---
 
 #### As a user I want to edit the tag list for an image.
+
+_Reviewer: weixing2014_
 
 Acceptance criteria:
 - [ ] There is a link to edit the tags for an image.

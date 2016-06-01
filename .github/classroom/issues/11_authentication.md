@@ -1,10 +1,10 @@
 ---
 title: Authentication
-assignee: d-ray
-labels: unstarted
 ---
 
 #### As an application hoster I want to add user authentication to my application.
+
+_Reviewer: d-ray_
 
 - [ ] Users can sign up.
 - [ ] Users can log in after they've signed up.
